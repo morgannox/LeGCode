@@ -1,0 +1,1 @@
+Transparent PLA....print at 210 and slower speed (40mm) for optimal print
